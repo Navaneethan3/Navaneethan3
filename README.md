@@ -1,14 +1,30 @@
-<h2 align="center">Hi 👋! My name is Navaneethan</h2>
+## Hi there, I am Navaneethan -aka L0n0n0k 👋
 
-###
+## I'm a Developer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l0n0n0k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=l0n0n0k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l0n0n0k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 💻 Interested in Competitive Coding, android and linux app development.
+- 🌱 I’m currently learning java ,kotlin.
+- 🎓 Pursuing B.Sc Computer Science from SRMV coimbatore.
+- 🖥  Passionate about building and developing new android apps.
+- 🥅 2024 Goals:
+  - Contribute more to Open Source projects
+  - Create my own apps for android and linux.
 
-###
+## Github Status
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l0n0n0k&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
+
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=l0n0n0k&theme=dark" />
+<p align="center">
+<img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l0n0n0k&langs_count=20&theme=dark&layout=compact" />
+<img width="62.5%" src="https://github-readme-stats.vercel.app/api?username=l0n0n0k&show_icons=true&theme=dark" />
+</p>
+<p align="center">
+<!-- <img width="49%" height="380" src="https://stats.quira.sh/l0n0n0k/languages-over-time?theme=dark" /> -->
+<!-- <img width="49%" height="380" src="https://github-contributor-stats.vercel.app/api?username=l0n0n0k&limit=7&theme=highcontrast&combine_all_yearly_contributions=true" /> -->
+</p>
+
+### Languages :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
