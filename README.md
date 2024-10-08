@@ -9,6 +9,8 @@
 - 🥅 2024 Goals:
   - Contribute more to Open Source projects
   - Create my own apps for android and linux.
+   - Android:-
+      -  [ ] Contribute to a f-droid app.
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l0n0n0k&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
