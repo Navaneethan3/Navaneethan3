@@ -10,6 +10,7 @@
   - Contribute more to Open Source projects
   - Create my own apps for android and linux.
    - Android:-
+      -  [ ] Learn ktlin from https://developer.android.com/kotlin
       -  [ ] Contribute to a f-droid app.
 
 ## Github Status
