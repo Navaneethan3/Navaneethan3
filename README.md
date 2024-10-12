@@ -12,7 +12,7 @@
    - Android:-
       -  [ ] Learn kotlin from https://developer.android.com/kotlin
       -  [ ] Contribute to a f-droid app.
-      -  [ ] Learn web development.
+  - Learn web development.
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l0n0n0k&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
