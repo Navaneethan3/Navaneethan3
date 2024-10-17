@@ -1,4 +1,4 @@
-## Hi there, I am Navaneethan -aka L0n0n0k 👋
+## Hi there, I am Navaneethan 👋
 
 ## I'm a Developer
 
