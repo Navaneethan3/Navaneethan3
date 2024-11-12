@@ -3,6 +3,7 @@
 ## I'm a Developer
 
 - 💻 Interested in Competitive Coding, android and linux app development.
+- Belief: Consistent improvement can outsmart brilliance.
 - 🌱 I’m currently learning java ,kotlin.
 - 🎓 Pursuing B.Sc Computer Science from SRMV coimbatore.
 - 🖥  Passionate about building and developing new android apps.
