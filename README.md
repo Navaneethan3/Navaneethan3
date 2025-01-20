@@ -8,16 +8,17 @@
 - 🎓 Pursuing B.Sc Computer Science from SRMV coimbatore.
 - 🖥  Passionate about building and developing new android apps.
 - 🥅 2025 Goals:
-  - Contribute more to Open Source projects
-  - Create my own apps for android and linux.
+  - [ ] Contribute more to Open Source projects
+  - [ ] Create my own apps for android and linux.
    - Android:-
+      -  [ ] Complete the kotlin fullstack certification course from hyperskill.
       -  [ ] Learn kotlin from https://developer.android.com/kotlin
       -  [ ] Contribute to a f-droid app.
-  - Learn web development.
-  - Learn c programing.
-  - Learn rust programing.
-  - Learn emacs lisp programming.
-  - Learn Scheme lisp programming.
+  - [ ] Learn web development.
+  - [ ] Learn c programing.
+  - [ ] Learn rust programing.
+  - [ ] Learn emacs lisp programming.
+  - [ ] Learn Scheme lisp programming.
 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navaneethan3&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
