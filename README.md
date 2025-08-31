@@ -3,7 +3,15 @@
 ## I'm a Developer
 
 - 💻 Interested in Competitive Coding, android and linux app development.
-- Belief: Consistent improvement can outsmart brilliance.
+  
+- Belief:
+  - Discipline and Consistent improvement can outsmart brilliance.
+  - Protection of the natural Environment of earth is the great gift to future grneration.
+  - Prefers verifiablity over censorship of fake information.
+  - Change must begin from within to change the surrounding.
+  - Life is a learning process...
+  - Individual space of liverty, privacy.Must be preserved and not violated.
+    
 - 🌱 I’m currently learning java ,kotlin,python,perl,bash,dart,R,C,C++.
 - 🎓 Pursuing B.Sc Computer Science from SRMV coimbatore.
 - 🖥  Passionate about building and developing new android apps.
