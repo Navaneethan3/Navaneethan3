@@ -11,6 +11,15 @@
   - Change must begin from within to change the surrounding.
   - Life is a learning process...
   - Individual space of liverty, privacy.Must be preserved and not violated.
+  - Must have Rights:-
+    - Freedom of Speech and Expresion.
+    - Freedom of religion and relegious belief.
+    - Freedom to elect the government(right to elect,recalling,initiative, and refrandum) and universal sufferage.
+    - Freedom form fear (ie the fourth freedom from The Four Freedoms,
+       articulated by President Franklin D. Roosevelt in 1941.)
+    - Freedom of right to social wellfare.
+    - Freedom of press and assembly.
+    - freedom of marriage and equality between genders.
     
 - 🌱 I’m currently learning java ,kotlin,python,perl,bash,dart,R,C,C++.
 - 🎓 Pursuing B.Sc Computer Science from SRMV coimbatore.
