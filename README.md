@@ -52,7 +52,7 @@
   - [ ] create a non-stackable simple wayland compositor.
   - [ ] complete the remining bucket list.
   - [ ] Revive every foss app that can be revived from f-droid.
-
+  - [ ] Learn to create system update,boot animation fore fedora gnome,kde,debian cinnomon,linux mint. 
 ## Github Status
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Navaneethan3&theme=dracula&row=1&margin-w=15" alt="Spritan" /></a> </p>
 
